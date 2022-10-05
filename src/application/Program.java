@@ -25,7 +25,7 @@ public class Program {
 			 * "values (?, ?, ?, ?, ?)", Statement.RETURN_GENERATED_KEYS); // ? ==
 			 * placeholder lugar onde depois // iremos colocar o valor
 			 * 
-			 * st.setString(1, "Paulo Henrique"); st.setString(2, "ph23.alves@gmail.com");
+			 * st.setString(1, "Paulo Henrique"); st.setSt	ring(2, "ph23.alves@gmail.com");
 			 * st.setDate(3, new java.sql.Date(sdf.parse("23/02/2003").getTime()));
 			 * st.setDouble(4, 3000); st.setInt(5, 4);
 			 */
